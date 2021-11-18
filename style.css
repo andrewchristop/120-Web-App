@@ -1,0 +1,66 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#To-do{
+    position: fixed;
+    top: 23px;
+    right: 250px;
+}
+
+.button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+.button1{
+    position:absolute;
+    background-color: blue;
+    left: 100px;
+}
+
+.button2{
+    position:absolute;
+    background-color: red;
+    left: 250px;
+}
+
+.button3{
+    position:absolute;
+    background-color: green;
+    left: 406px;
+}
+
+.button4{
+    position:absolute;
+    background-color: rgb(22, 31, 16);
+    left: 226px;
+}
+
+.rectangle{
+    position: absolute;
+    top: 40px;
+    right: 80px;
+    height: 500px;
+    width: 500px;
+    background-color: #e9e9e9;
+}
+
+.todo{
+    position: fixed;
+    top: 100px;
+    right: 196px;
+}
+
+#ptimer{
+    position:absolute;
+    left: 206px;
+}
